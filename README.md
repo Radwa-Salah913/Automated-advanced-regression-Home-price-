@@ -1,6 +1,4 @@
-It is a regression problem to predict home prices based on 81 features. 
-I didn't rely on visualization plots because they are not suitable for such a large number of features, so I depended on automated code. 
-I focused on the preprocessing steps because the data has many issues.
+It is a regression problem aimed at predicting home prices based on 81 features. I did not rely heavily on visualization plots, as they are less suitable for such a large number of features. Instead, I focused on automating the process through code. My primary emphasis was on the preprocessing steps, as the dataset contained several issues that needed to be addressed. After completing the preprocessing and modeling, I tested the code on the competition's test data and achieved a score of 0.212 in the Kaggle competition.
 
 ### Link of Dataset:
 [Click here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
