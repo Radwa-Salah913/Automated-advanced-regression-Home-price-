@@ -139,5 +139,6 @@ df = df[train_df.columns]
 
 con=st.button('Confirm')
 
-result=model.predict(df)
-st.write(result)
+if con:
+   result=model.predict(df)
+   st.write(result)
